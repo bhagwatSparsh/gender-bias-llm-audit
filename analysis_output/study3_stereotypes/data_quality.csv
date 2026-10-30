@@ -1,0 +1,13 @@
+model_name,domain,answers,readable,expected_per_model
+GPT-OSS-120B,letter,240,1.0,240
+GPT-OSS-120B,pronoun,240,0.9958333333333333,240
+GPT-OSS-120B,role,320,1.0,320
+GPT-OSS-20B,letter,240,1.0,240
+GPT-OSS-20B,pronoun,240,1.0,240
+GPT-OSS-20B,role,320,1.0,320
+Gemini-3.5-Flash-Lite,letter,240,1.0,240
+Gemini-3.5-Flash-Lite,pronoun,240,1.0,240
+Gemini-3.5-Flash-Lite,role,320,1.0,320
+Qwen-3.8-27B,letter,240,0.9958333333333333,240
+Qwen-3.8-27B,pronoun,240,1.0,240
+Qwen-3.8-27B,role,320,1.0,320

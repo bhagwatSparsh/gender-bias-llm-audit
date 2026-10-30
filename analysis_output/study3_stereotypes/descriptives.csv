@@ -1,0 +1,21 @@
+model_name,task,measure,value,n
+GPT-OSS-120B,pronoun,share answered 'unclear',0.4041666666666667,240
+GPT-OSS-120B,pronoun,stereotype-consistent share (resolved),0.6197183098591549,142
+GPT-OSS-120B,role,share recommending the male-stereotyped role (all),0.428125,320
+GPT-OSS-120B,letter,mean agentic rate per 100 words,1.2528029660867597,240
+GPT-OSS-120B,letter,mean communal rate per 100 words,0.6331432254562055,240
+GPT-OSS-20B,pronoun,share answered 'unclear',0.16666666666666666,240
+GPT-OSS-20B,pronoun,stereotype-consistent share (resolved),0.77,200
+GPT-OSS-20B,role,share recommending the male-stereotyped role (all),0.490625,320
+GPT-OSS-20B,letter,mean agentic rate per 100 words,1.356822534775962,240
+GPT-OSS-20B,letter,mean communal rate per 100 words,0.7770892339117448,240
+Qwen-3.8-27B,pronoun,share answered 'unclear',0.6208333333333333,240
+Qwen-3.8-27B,pronoun,stereotype-consistent share (resolved),0.6593406593406593,91
+Qwen-3.8-27B,role,share recommending the male-stereotyped role (all),0.58125,320
+Qwen-3.8-27B,letter,mean agentic rate per 100 words,0.9721554347666695,239
+Qwen-3.8-27B,letter,mean communal rate per 100 words,0.8346103100525043,239
+Gemini-3.5-Flash-Lite,pronoun,share answered 'unclear',0.6291666666666667,240
+Gemini-3.5-Flash-Lite,pronoun,stereotype-consistent share (resolved),0.6853932584269663,89
+Gemini-3.5-Flash-Lite,role,share recommending the male-stereotyped role (all),0.346875,320
+Gemini-3.5-Flash-Lite,letter,mean agentic rate per 100 words,0.7639071374561134,240
+Gemini-3.5-Flash-Lite,letter,mean communal rate per 100 words,0.7877119644758613,240

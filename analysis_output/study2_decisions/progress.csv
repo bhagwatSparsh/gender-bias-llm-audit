@@ -1,0 +1,5 @@
+model_name,scenarios_complete,of,rows_answered,scenarios_complete_all_models
+GPT-OSS-120B,258,258,1422,257
+GPT-OSS-20B,258,258,1422,257
+Gemini-3.5-Flash-Lite,257,258,1421,257
+Qwen-3.8-27B,258,258,1422,257

@@ -1,0 +1,24 @@
+# secrets: never commit these
+.env
+*.env
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# LaTeX build files
+paper/main.pdf
+paper/*.aux
+paper/*.log
+paper/*.bbl
+paper/*.blg
+paper/*.out
+paper/*.fls
+paper/*.fdb_latexmk
+paper/*.synctex.gz
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/

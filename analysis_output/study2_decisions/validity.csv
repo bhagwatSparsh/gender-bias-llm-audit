@@ -1,0 +1,13 @@
+model_name,context,borderline,strong,weak,borderline_informative_frac,monotonic
+GPT-OSS-120B,general,0.521,1.0,0.0,0.505,True
+GPT-OSS-20B,general,0.585,1.0,0.0,0.394,True
+Gemini-3.5-Flash-Lite,general,0.419,1.0,0.0,0.172,True
+Qwen-3.8-27B,general,0.391,1.0,0.0,0.121,True
+GPT-OSS-120B,india,0.545,1.0,0.0,0.273,True
+GPT-OSS-20B,india,0.561,1.0,0.0,0.303,True
+Gemini-3.5-Flash-Lite,india,0.455,1.0,0.0,0.192,True
+Qwen-3.8-27B,india,0.407,1.0,0.0,0.222,True
+GPT-OSS-120B,all,0.533,1.0,0.0,0.389,True
+GPT-OSS-20B,all,0.573,1.0,0.0,0.348,True
+Gemini-3.5-Flash-Lite,all,0.437,1.0,0.0,0.182,True
+Qwen-3.8-27B,all,0.399,1.0,0.0,0.172,True
